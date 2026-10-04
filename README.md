@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AURVEX Performance
 
 Premium React/Vite portfolio site and dashboard concept for an elite Indian personal trainer.
@@ -25,3 +26,7 @@ npm run dev
 - Program, transformation and testimonial data are fictional demo content.
 - Images are remote Unsplash editorial images; the generated concept preview is kept at `public/assets/aurvex-concept-preview.png` as a visual reference asset.
 - Booking, availability, calculator, filters, FAQ and dashboard interactions are functional demo interactions; production persistence/auth/payment/calendar integrations are not included.
+=======
+# Aurvex-gym_demo
+Demo website for gym owners and fitness influencer
+>>>>>>> bd507ec0f388044a75ebb09d0070a1cc0963a628
