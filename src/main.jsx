@@ -1970,7 +1970,7 @@ function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-[10px] uppercase tracking-[.16em] text-white/30">
-        © 2026 AURVEX Performance · Portfolio demo
+        © 2026 AURVEX Performance · Portfolio demo Gentech Enterprises
       </div>
     </footer>
   );
